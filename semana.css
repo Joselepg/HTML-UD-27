@@ -1,0 +1,33 @@
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    background-color:lightsalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: cornflowerblue;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: cornflowerblue;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+em{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: cornflowerblue;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    list-style-type:none
+}
